@@ -1,0 +1,47 @@
+.my-links{
+    text-decoration:none; 
+    font-weight: bold; 
+    color: #FFC600;
+}
+.my-links:hover{
+    font-weight: bold; 
+    color: #FFC600;
+}
+
+.red-bg{
+    background-color: #6C0E23;
+}
+.orange-bg{
+    background-color: #DB7C26;
+}
+.deep-blue-bg{
+    background-color: #07004D;
+}
+.green-bg{
+    background-color: #018E42;
+}
+.slate-bg{
+    background-color: #7EBDC3;
+}
+.pink-bg{
+    background-color: #F9627D;
+}
+
+.discord{
+    background-color: #7289da;
+}
+
+.discord:hover{
+    text-decoration: none;
+    color: white;
+}
+
+.timer-text{
+    font-size: 65px;
+    font-weight: 700;
+    color: #FFC600;
+    line-height: 64px;
+    letter-spacing: 2px;
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
